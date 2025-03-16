@@ -7,7 +7,7 @@ export default function SecondComponent(){
             height: 20,
             position: 'absolute',
             //top: '100%',
-            backgroundColor: "blue",
+            backgroundColor: "blue"
         }}>
         </View>
     )
